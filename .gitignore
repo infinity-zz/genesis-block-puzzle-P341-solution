@@ -1,0 +1,8 @@
+# Python
+__pycache__/
+*.pyc
+*.log
+
+# Local scratch
+.DS_Store
+*.tmp
